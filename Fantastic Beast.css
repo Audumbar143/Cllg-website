@@ -1,0 +1,69 @@
+.navbar ul li
+{
+    text-align: center;
+    display: inline-block;
+    padding-left: 10vw;
+    margin-left: 10vw;
+    margin-right: 15vw;
+    
+}
+
+.intro
+{
+    font-size: 20px;
+    
+}
+.fb1
+{
+    text-align: center;
+}
+.fb1post img
+{
+    height: 600;
+    width: 300;
+    border: 10px solid goldenrod;
+    border-style:double;
+    margin-left: 40vw;
+}
+.fb1trailer iframe
+{
+    padding-top: -7vh;
+    margin-top: 3vh;
+margin-left: 33vw;
+border: 7px solid goldenrod;
+border-style: double;
+}
+.fb1text
+{
+    font-size: 20px;
+}
+
+.fb2
+{
+    text-align: center;
+}
+
+.fb2poster img
+{
+    height: 600;
+    width: 300;
+    border: 10px solid goldenrod;
+    border-style:double;
+    margin-left: 40vw;
+}
+
+.fb2trailer iframe 
+{
+    padding-top: -7vh;
+    margin-top: 3vh;
+margin-left: 33vw;
+border: 7px solid goldenrod;
+border-style: double;
+}
+#footer 
+{
+    background-color:slategray ;
+    color: white;
+    padding:1vh 0.5vw 1vh 0.5vw;
+    text-align: center;
+} 

@@ -1,0 +1,220 @@
+.navbar ul li
+
+{
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 10vw;
+    margin-left: 10vw;
+    margin-right: 15vw;
+     color: black;
+     margin-top: -20vh;
+}
+.intro
+{
+    font-size: 20px;
+    
+}
+
+.tablefull
+{
+    background: rgb(223,33,33);
+    margin-top: -3vh;
+    margin-bottom: -1vh;
+    
+}
+
+.table
+{
+    background: rgb(223, 33, 33);
+    text-align: center;
+    padding-left: 10vw;
+    margin-left: 18vw;
+    
+    
+    
+}
+
+.tbhead
+{
+    text-align: center;
+    }
+
+    .hp1
+    {
+        text-align: center;
+        
+    }
+    .hp1poster img
+    {
+       
+        height: 600;
+        width: 300;
+        border: 10px solid darkcyan;
+        border-style:double;
+    }
+
+    .hp1trailer iframe
+    {
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp2
+    {
+        text-align: center;
+    }
+
+    .hp2poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+    }
+    .hp2trailer iframe
+    {
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp3
+    {
+        text-align: center;
+    }
+
+    .hp3poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+    .hp3trailer iframe
+    {
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp4
+    {
+        text-align: center;
+    }
+
+    .hp4poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+    .hp4trailer iframe
+    {
+        
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp5
+    {
+        text-align: center;
+    }
+
+    .hp5poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+
+    .hp5trailer iframe
+    {
+         
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp6
+    {
+        text-align: center;
+    }
+
+    .hp6poster img
+    {
+
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+    .hp6trailer iframe
+    {
+          
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan; 
+    }
+    .hp7-1
+    {
+        text-align: center;
+    }
+    .hp7-1poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+    
+    .hp7-1trailer iframe
+    {
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+
+    .hp7-2
+    {
+        text-align: center;
+    }
+
+    .hp7-2poster img
+    {
+        height: 600;
+        width: auto;
+        border: 10px solid darkcyan;
+        border-style: double;
+        margin-left: 35vw;
+    }
+    .hp7-2trailer iframe
+    {
+        padding-top: -7vh;
+        margin-top: 3vh;
+    margin-left: 30vw;
+    border: 3px solid darkcyan;
+    }
+    #footer 
+    {
+        background-color:#0e0d0d ;
+        color: white;
+        padding:0.2vh 0.5vw 0.2vh 0.5vw;
+        text-align: center;
+    } 
